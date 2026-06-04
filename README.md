@@ -1,5 +1,5 @@
 # XRL — Xref Reload Tool for AutoCAD
-**Version 2.5 | Author: Adrian Ayala**
+**Version 2.5 | Author: drzkid96**
 
 A lean AutoLISP tool for reloading xrefs in AutoCAD. Define a saved set once, type `XRL` every time. The set persists automatically beside the drawing — no manual save or load required.
 
