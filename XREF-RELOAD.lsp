@@ -1,6 +1,5 @@
 ;;; ===========================================================
 ;;;   X R L  —  Xref Reload Tool for AutoCAD
-;;;   Version 2.5  |  Author: Adrian Ayala
 ;;;
 ;;;   Commands:
 ;;;     XRL        — Reload xrefs (current config)
